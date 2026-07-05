@@ -67,7 +67,15 @@ If Windows blocks the change, try closing the app and running it as Administrato
 
 The app writes `windows_cpu_limit_tray.log` next to the script when possible, or in the system temporary directory as a fallback.
 
+---
 
+<br>
+
+<img width="346" height="431" alt="powrplansettings" src="https://github.com/user-attachments/assets/7f80d8e5-dc56-4071-b20a-4a82aec5c0e7" />
+
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
