@@ -1,5 +1,10 @@
 # Windows CPU Limit Tray
 
+<img width="500" height="340" alt="gui" src="https://github.com/user-attachments/assets/2c83bc8b-22b8-40fb-83f8-cc8cc11d119c" />
+
+<br>
+<br>
+
 A small Windows tray utility for quickly changing the active power plan's **CPU maximum processor state** while plugged in.
 
 Useful when a desktop or laptop CPU does not lower clocks properly at idle or light use. Instead of relying on the minimum processor state, this app lets you quickly cap the CPU's maximum allowed state from the tray, then restore it to 100% when needed.
@@ -61,4 +66,11 @@ If Windows blocks the change, try closing the app and running it as Administrato
 ## Logs
 
 The app writes `windows_cpu_limit_tray.log` next to the script when possible, or in the system temporary directory as a fallback.
+
+
+<br>
+<br>
+<br>
+
+<img width="1277" height="332" alt="tray" src="https://github.com/user-attachments/assets/6867424d-7c90-4453-b4d9-41c6a351973d" />
 
