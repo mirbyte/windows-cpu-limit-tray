@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE/editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local runtime logs
+*.log
+cpu_power_overlay.log
+
+# Build/package output
+build/
+dist/
+*.egg-info/
+*.spec
