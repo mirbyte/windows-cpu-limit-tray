@@ -1,6 +1,6 @@
 # Windows CPU Limit Tray
 
-<img width="500" height="340" alt="gui" src="https://github.com/user-attachments/assets/2c83bc8b-22b8-40fb-83f8-cc8cc11d119c" />
+<img width="500" height="330" alt="gui" src="https://github.com/user-attachments/assets/2c83bc8b-22b8-40fb-83f8-cc8cc11d119c" />
 
 <br>
 <br>
